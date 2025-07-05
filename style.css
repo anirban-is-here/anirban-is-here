@@ -98,3 +98,11 @@ h1{
 #low-height{
     height: 400px;
 }
+
+
+#new{
+    background-color: sandybrown;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
